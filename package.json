@@ -25,6 +25,7 @@
     "vite": "4.3.5"
   },
   "dependencies": {
+    "antd": "^5.4.7",
     "rs-mfd-calculator": "file:"
   }
 }
